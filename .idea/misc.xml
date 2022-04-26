@@ -3,9 +3,14 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/bryan/AndroidStudioProjects/KuraKura/app/src/main/res/drawable/mybutton.xml" value="0.2285" />
         <entry key="..\:/Users/bryan/AndroidStudioProjects/KuraKura/app/src/main/res/font/fuente.xml" value="0.284375" />
         <entry key="..\:/Users/bryan/AndroidStudioProjects/KuraKura/app/src/main/res/layout/activity_main.xml" value="0.22826086956521738" />
-        <entry key="..\:/Users/bryan/AndroidStudioProjects/KuraKura/app/src/main/res/layout/fragment_login.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/bryan/AndroidStudioProjects/KuraKura/app/src/main/res/layout/fragment_login.xml" value="0.176" />
+        <entry key="..\:/Users/bryan/AndroidStudioProjects/KuraKura/app/src/main/res/layout/fragment_registro.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/bryan/AndroidStudioProjects/KuraKura/app/src/main/res/layout/fragment_reset_password.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/bryan/AndroidStudioProjects/KuraKura/app/src/main/res/layout/fragment_twitter.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/bryan/AndroidStudioProjects/KuraKura/app/src/main/res/menu/drawer_menu.xml" value="0.25416666666666665" />
       </map>
     </option>
   </component>

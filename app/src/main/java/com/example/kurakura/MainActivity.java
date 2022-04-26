@@ -3,6 +3,7 @@ package com.example.kurakura;
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
+import android.view.Window;
 
 public class MainActivity extends AppCompatActivity {
 
