@@ -5,10 +5,20 @@
     android:layout_height="match_parent"
     tools:context=".RegistroFragment">
 
-    <!-- TODO: Update blank fragment layout -->
-    <TextView
-        android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:text="@string/hello_blank_fragment" />
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/registro"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="REGISTRO"
+            android:fontFamily="@font/revalia"
+            android:textSize="30sp"
+            android:textColor="@color/black"/>
+
+    </LinearLayout>
 
 </FrameLayout>
